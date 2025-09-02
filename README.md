@@ -1,6 +1,6 @@
-# Deep-learning
+# Plant Disease Classification using NN vs CNN
 
-                            Plant Disease Classification using NN vs CNN
+                            
 1. Title of the Problem Statement
 
 "Plant Disease Detection using Neural Networks (NN) and Convolutional Neural Networks (CNN): A Comparative Study on the PlantVillage Dataset"

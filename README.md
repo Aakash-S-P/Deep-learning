@@ -91,9 +91,10 @@ F1-score – balance between precision & recall.
 Confusion Matrix – per-class performance.
 
 7. Results and Discussion
-Model	Accuracy	Precision	Recall	F1-score
-CNN	91.3%	91.8%	91.3%	91.4%
-Tabular NN	77.8%	77.9%	77.8%	77.5%
+   
+Model	        Accuracy	Precision	Recall	F1-score
+CNN            91.3%   	91.8%	   91.3%	  91.4%
+Tabular NN	   77.8%	   77.9%	 77.8%	  77.5%
 
 CNN outperformed NN by ~13% in accuracy.
 
@@ -101,7 +102,7 @@ CNN captured leaf disease spots, texture patterns, and shapes that handcrafted f
 
 Tabular NN was limited but still reasonable (~78%).
 
-8. Analysis: NN vs CNN – Which is Better?
+8. Analysis: NN vs CNN
 
 CNN is clearly better because it learns spatial features directly from images.
 
